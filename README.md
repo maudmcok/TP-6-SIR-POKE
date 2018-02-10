@@ -3,4 +3,3 @@ TP5 : AngularJS
 # TP6Pokemon
 # Tp 6 sir Pokemon
 # TP-6-SIR-POKE
-# TP-6-SIR-POKE
